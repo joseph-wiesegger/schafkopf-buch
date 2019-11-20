@@ -6,7 +6,9 @@ Diese Seite stellt mein Buch über das Spiel Schafkopf zur Verfügung. [Sie kön
    <button type="submit">Herunterladen</button>
 </form>
 
-Das Buch hat das bayerische Kartenspiel Schafkopf zum Thema und versucht, einen Einblick in die verschiedenen Facetten dieses Spiels zu geben. Ein Überblick über den Inhalt:
+Das Buch hat das bayerische Kartenspiel Schafkopf zum Thema und versucht, einen Einblick in die verschiedenen Facetten dieses Spiels zu geben. Es versteht sich dabei als Anleitung, bemüht sich um eine anschauliche Einführung in die Regeln und gibt Tips für ein erfolgreiches Spiel.
+
+Ein Überblick über den Inhalt:
 
 * Grundlagen
   * Bezeichnungen
