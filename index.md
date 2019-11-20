@@ -1,15 +1,12 @@
 # Schafkopf-Buch
 
-Diese Seite stellt mein Buch zum Thema Schafkopf zur Verfügung. Sie können es [hier als PDF herunterladen](https://github.com/schafkopf-buch/schafkopf-buch/raw/master/schafkopf_buch.pdf).
+Diese Seite stellt mein Buch über das Spiel Schafkopf zur Verfügung. [Sie können es hier kostenlos als PDF herunterladen](https://github.com/schafkopf-buch/schafkopf-buch/raw/master/schafkopf_buch.pdf).
 
 <form method="get" action="https://github.com/schafkopf-buch/schafkopf-buch/raw/master/schafkopf_buch.pdf">
-   <button type="submit">Hier herunterladen</button>
+   <button type="submit">Herunterladen</button>
 </form>
 
-
-Das Buch hat das bayerische Kartenspiel Schafkopf zum Thema und versucht, einen Einblick in die verschiedenen Facetten dieses Spiels zu geben.
-
-Ein Überblick über den Inhalt:
+Das Buch hat das bayerische Kartenspiel Schafkopf zum Thema und versucht, einen Einblick in die verschiedenen Facetten dieses Spiels zu geben. Ein Überblick über den Inhalt:
 
 * Grundlagen
   * Bezeichnungen
