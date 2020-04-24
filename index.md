@@ -8,7 +8,7 @@ Diese Seite stellt mein Buch über das Spiel Schafkopf zur Verfügung. [Sie kön
 
 Das Buch hat das bayerische Kartenspiel Schafkopf zum Thema und versucht, einen Einblick in die verschiedenen Facetten dieses Spiels zu geben. Es versteht sich dabei als Anleitung, bemüht sich um eine anschauliche Einführung in die Regeln und gibt Tips für ein erfolgreiches Spiel.
 
-Sie können via schafkopftut@googlemail.com Kontakt mit mir aufnehmen.
+Sie können via [schafkopftut@googlemail.com](mailto:schafkopftut@googlemail.com) Kontakt mit mir aufnehmen.
 
 Ein Überblick über den Inhalt:
 
